@@ -1,0 +1,8 @@
+micronaut:
+    application:
+        name: khwaja404
+
+#   8080 is the default port so you
+#   do not really need this
+    server:
+        port: 8080
